@@ -3469,7 +3469,7 @@ msgstr "Использовать задачи как"
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
 msgid "Use Timesheets"
-msgstr "Используйте &quot;табели&quot;"
+msgstr "Используйте табели"
 
 #. module: project
 #: model:ir.ui.view,arch_db:project.project_planner
